@@ -46,3 +46,7 @@ Die neuesten Beispiele und Aufgaben sind dann lokal verfügbar.
 
 - Java 17+
 - IntelliJ IDEA (empfohlen)
+
+
+---
+*Dieses Repository wurde mit Unterstützung von [Claude](https://claude.ai) (Anthropic) erstellt.*
