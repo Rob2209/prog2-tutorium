@@ -18,7 +18,7 @@ t01_generics_wildcards/
 ### Repository klonen
 
 ```bash
-git clone https://github.com/<dein-username>/prog2-tutorium.git
+git clone https://github.com/Rob2209/prog2-tutorium.git
 ```
 
 ### Vor jedem Termin
